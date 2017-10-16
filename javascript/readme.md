@@ -33,7 +33,7 @@ if (1 > 0) {
 };
 ```
 You can also use the ```if``` statement with variables.
-```
+```javascript
 var num = 1
 if (num > 0) {
   print("Yes.")
