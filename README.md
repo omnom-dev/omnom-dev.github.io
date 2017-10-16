@@ -1,4 +1,4 @@
-# Omnom.  Web Docs.
+# Web Docs.
 
 [Javascript](/)
 * [Basic Javascript](/javascript)
